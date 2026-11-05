@@ -8,5 +8,6 @@ Write-ups of the projects I completed in **Data 101: Data Engineering** at UC Be
 |---|---|---|---|
 | 2 | [IMDb Box-Office Data Cleaning & Analysis](02-imdb-box-office-sql/) | Data cleaning in SQL | PostgreSQL |
 | 4 | [Urban Building Analytics ETL](04-urban-building-analytics-etl/) | ETL and data quality | PostgreSQL |
+| 5 | [Yelp Insight Engine](05-yelp-insight-engine-mongodb/) | NoSQL and semi-structured data | MongoDB, PyMongo, pandas |
 
 My Berkeley group research project, which has full public code, is in [air-quality-economic-mobility](https://github.com/HuyKDao/air-quality-economic-mobility).
