@@ -7,6 +7,7 @@ Write-ups of the projects I completed in **Data 101: Data Engineering** at UC Be
 | # | Project | Focus | Key tools |
 |---|---|---|---|
 | 2 | [IMDb Box-Office Data Cleaning & Analysis](02-imdb-box-office-sql/) | Data cleaning in SQL | PostgreSQL |
+| 3 | [PostgreSQL Query Performance Tuning](03-postgres-query-performance/) | Query optimization and indexing | PostgreSQL, EXPLAIN ANALYZE |
 | 4 | [Urban Building Analytics ETL](04-urban-building-analytics-etl/) | ETL and data quality | PostgreSQL |
 | 5 | [Yelp Insight Engine](05-yelp-insight-engine-mongodb/) | NoSQL and semi-structured data | MongoDB, PyMongo, pandas |
 
