@@ -1,11 +1,12 @@
 # Data Engineering Coursework (UC Berkeley Data 101)
 
-Write-ups of the projects I completed in **Data 101: Data Engineering** at UC Berkeley (Spring 2025), covering SQL, query optimization, ETL and NoSQL.
+Write-ups of the five projects I completed in **Data 101: Data Engineering** at UC Berkeley (Spring 2025), covering SQL, query optimization, ETL and NoSQL.
 
 > **About the code:** the course reuses its projects and doesn't allow sharing solution code, so each folder explains the problem, my approach, results and skills instead of posting solutions. I'm happy to walk through the code in an interview.
 
 | # | Project | Focus | Key tools |
 |---|---|---|---|
+| 1 | [Billboard & TikTok Music Trends with SQL](01-billboard-music-trends-sql/) | Analytical SQL | PostgreSQL |
 | 2 | [IMDb Box-Office Data Cleaning & Analysis](02-imdb-box-office-sql/) | Data cleaning in SQL | PostgreSQL |
 | 3 | [PostgreSQL Query Performance Tuning](03-postgres-query-performance/) | Query optimization and indexing | PostgreSQL, EXPLAIN ANALYZE |
 | 4 | [Urban Building Analytics ETL](04-urban-building-analytics-etl/) | ETL and data quality | PostgreSQL |
